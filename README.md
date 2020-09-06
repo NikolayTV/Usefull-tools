@@ -28,3 +28,12 @@ Usefull tools &amp; Repose I may use in my projects
 
 # To watch 
 1. https://www.youtube.com/watch?v=SmW47k5mBiM&ab_channel=AvitoTech
+
+
+
+# Done
+1. Gaze Estimation
+2. Object detection, reidentification, tracking and line crossing
+3. Pytorch -> ONNX -> IE model conversion. Pipline example in dbface-on-openvino
+4. Camera colibration for pose estimation. For example
+5. 
