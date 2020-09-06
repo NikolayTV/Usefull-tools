@@ -1,10 +1,10 @@
 # Usefull-tools
 Usefull tools &amp; Repose I may use in my projects
 
-# Special
+# OpenVino
 https://github.com/openvinotoolkit/open_model_zoo - A lot of usefull pretrained models, resources. Need to install, research
 https://github.com/openvinotoolkit/workbench_aux - GUI for OpenVnio
-
+https://www.youtube.com/watch?v=-i8gdbukpU4&list=PLTseHiQLIfGM6ltiaeh9fL8qfxiE-u4fw&index=7&ab_channel=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%94%D0%B5%D0%BC%D0%B8%D0%B4%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9 - OpenVino Deploy, and DL Workbench
 
 # Segmentation
 1. https://github.com/facebookresearch/detectron2 - Cool SOTA for detection and segmentation. Need to research details of it
