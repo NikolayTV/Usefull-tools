@@ -20,6 +20,7 @@ https://www.youtube.com/watch?v=-i8gdbukpU4&list=PLTseHiQLIfGM6ltiaeh9fL8qfxiE-u
 https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch - Need Nvidia Driver 440+, Python 3.8
 http://juliericowilliamson.com/PedestrianTracking/quickstart.html - Website dedicated to Pedestrians tracking
 https://www.pyimagesearch.com/2019/12/02/opencv-vehicle-detection-tracking-and-speed-estimation/ - Vehicle Speed Estimation
+https://github.com/incluit/OpenVino-For-SmartCity - Collision Detection
 
 # Deployment
 https://www.youtube.com/watch?v=CT1rdSLLUaE&list=PLg-UKERBljNwKX-xUokuC5Oft8c8J0SsZ&index=3&ab_channel=IntelSoftware - Tensorflow optimized Docker containers from intel. + Python3 Intel optimized (faster)
