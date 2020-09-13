@@ -39,7 +39,7 @@ Usefull tools &amp; Repose I may use in my projects
 1. Has a small dataset of closed open eyes 
 
 # Video-streaming
-1. https://event.on24.com/eventRegistration/console/EventConsoleApollo.jsp?&eventid=2617404&sessionid=1&username=&partnerref=&format=fhvideo1&mobile=false&flashsupportedmobiledevice=false&helpcenter=false&key=2107779A79B4F2055BF96CE57CC01BDC&text_language_id=en&playerwidth=1000&playerheight=650&overwritelobby=y&newConsole=false&nxChe=true&eventuserid=351900746&contenttype=A&mediametricsessionid=299273414&mediametricid=3690175&usercd=351900746&mode=launch - Video injestion with Intel
+1. https://intelvs.on24.com/vshow/IOTDevTraining/exhibits/EdgeInsightsOD - Video injestion with Intel
 
 # Done
 1. Gaze Estimation
