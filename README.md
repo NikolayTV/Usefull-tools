@@ -8,8 +8,9 @@ Usefull tools &amp; Repose I may use in my projects
 4. https://github.com/yas-sim?tab=repositories - Usefull Python Resource for OpenVino
 5. https://github.com/incluit/OpenVino-Driver-Management - ADAS OPENVINO written in C++
 6. https://github.com/intel-iot-devkit/shopper-gaze-monitor-python - People counter + AD looking counter. How does it differenciate between looks of the same people?
-7. https://github.com/intel-iot-devkit/smart-retail-analytics - DB, Dashboard visualization, Flask, 3 piplines in the shop. Good material
+7. https://github.com/intel-iot-devkit/smart-retail-analytics - DB, Graphana Dashboard visualization, Flask, 3 piplines in the shop. Good material
 8. https://github.com/intel-iot-devkit/intelligent-classroom - Smart classroom - Usefull Ideas. But in C++
+9. https://github.com/intel-iot-devkit/object-flaw-detector-python - Graphana python example 
 
 # Segmentation
 1. https://github.com/facebookresearch/detectron2 - Cool SOTA for detection and segmentation. Need to research details of it
