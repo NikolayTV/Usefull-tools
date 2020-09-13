@@ -11,6 +11,7 @@ Usefull tools &amp; Repose I may use in my projects
 7. https://github.com/intel-iot-devkit/smart-retail-analytics - DB, Graphana Dashboard visualization, Flask, 3 piplines in the shop. Good material
 8. https://github.com/intel-iot-devkit/intelligent-classroom - Smart classroom - Usefull Ideas. But in C++
 9. https://github.com/intel-iot-devkit/object-flaw-detector-python - Graphana python example 
+10. https://github.com/intel-iot-devkit/network-video-recorder - Video streaming
 
 # Segmentation
 1. https://github.com/facebookresearch/detectron2 - Cool SOTA for detection and segmentation. Need to research details of it
