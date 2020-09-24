@@ -47,3 +47,18 @@ Usefull tools &amp; Repose I may use in my projects
 3. Pytorch -> ONNX -> IE model conversion. Pipline example in dbface-on-openvino
 4. Camera colibration for pose estimation. For example
 5. 
+
+
+
+# Hackaton
+1. https://github.com/pbugnion/gmaps - interactive GoogleMaps in jupyter
+2. https://github.com/python-visualization/folium - interactive maps in jupyter too
+3. http://gallery.pangeo.io/ - gallery of other Earth specific tools and data
+4. https://blog.jupyter.org/interactive-gis-in-jupyter-with-ipyleaflet-52f9657fa7a - ipywidgets + ipyleaflet. Maps in ipywidgets
+5. https://www.youtube.com/watch?v=wjzAy_yLrdA&ab_channel=RyanNoonan - ipyleaflet overwie
+6. https://github.com/wildfirepy/wildfirepy - some python project for using wild fire data with terrible documentation
+7. http://www.wildfireincidents.com/current-wildfire-activity-map - wildFire Activity map
+8. https://docs.terradue.com/ellip/solutions/notebooks/examples/land/resources/code/active-fire-detection/active-fire-pedrogao.html#Plot-the-active-fires-detected - какая-то дичь хуевозадументированная. Есть зависимости которые устанавливаются только через conda
+
+
+
