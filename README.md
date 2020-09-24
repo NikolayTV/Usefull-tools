@@ -58,7 +58,7 @@ Usefull tools &amp; Repose I may use in my projects
 5. https://www.youtube.com/watch?v=wjzAy_yLrdA&ab_channel=RyanNoonan - ipyleaflet overwie
 6. https://github.com/wildfirepy/wildfirepy - some python project for using wild fire data with terrible documentation
 7. http://www.wildfireincidents.com/current-wildfire-activity-map - wildFire Activity map
-8. https://docs.terradue.com/ellip/solutions/notebooks/examples/land/resources/code/active-fire-detection/active-fire-pedrogao.html#Plot-the-active-fires-detected - какая-то дичь хуевозадументированная. Есть зависимости которые устанавливаются только через conda
+8. https://docs.terradue.com/ellip/solutions/notebooks/examples/land/resources/code/active-fire-detection/active-fire-pedrogao.html#Plot-the-active-fires-detected - какая-то дичь хуевозадументированная. Есть зависимости которые устанавливаются только через conda и только для python 2.7
 
 
 
