@@ -62,5 +62,5 @@ Usefull tools &amp; Repose I may use in my projects
 7. http://www.wildfireincidents.com/current-wildfire-activity-map - wildFire Activity map
 8. https://docs.terradue.com/ellip/solutions/notebooks/examples/land/resources/code/active-fire-detection/active-fire-pedrogao.html#Plot-the-active-fires-detected - какая-то дичь хуевозадументированная. Есть зависимости которые устанавливаются только через conda и только для python 2.7
 9. https://github.com/MelanieWW/fire-prediction/blob/master/map_app.py - Dash python app
-
+10. https://github.com/acgeospatial/awesome-earthobservation-code - A lot of cool repos
 
