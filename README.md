@@ -34,6 +34,8 @@ Usefull tools &amp; Repose I may use in my projects
 
 # To watch 
 1. https://www.youtube.com/watch?v=SmW47k5mBiM&ab_channel=AvitoTech
+2. https://github.com/exotol/data-science-interviews/blob/master/theory.md
+
 
 # Datasets
 1. Has a small dataset of closed open eyes 
