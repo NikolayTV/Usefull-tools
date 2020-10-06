@@ -38,7 +38,8 @@ Usefull tools &amp; Repose I may use in my projects
 
 
 # Datasets
-1. Has a small dataset of closed open eyes 
+1. https://github.com/ssaru/convert2Yolo - covert dataset fot object detection to Yolo
+
 
 # Video-streaming
 1. https://intelvs.on24.com/vshow/IOTDevTraining/exhibits/EdgeInsightsOD - Video injestion with Intel
