@@ -45,6 +45,8 @@ Usefull tools &amp; Repose I may use in my projects
 
 # Video-streaming
 1. https://intelvs.on24.com/vshow/IOTDevTraining/exhibits/EdgeInsightsOD - Video injestion with Intel
+2. https://blog.miguelgrinberg.com/post/flask-video-streaming-revisited - some usefull information video streaming with flask 
+
 
 # Done
 1. Gaze Estimation
