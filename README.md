@@ -55,6 +55,8 @@ Usefull tools &amp; Repose I may use in my projects
 4. Camera colibration for pose estimation. For example
 5. 
 
+# MLOps
+1. https://www.jenkins.io/ - удобная штука для continious integration
 
 
 # Hackaton
