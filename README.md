@@ -1,6 +1,10 @@
 # Usefull-tools
 Usefull tools &amp; Repose I may use in my projects
 
+# Ubuntu
+Change language hotkeys on Ubuntu 18.04 
+https://askubuntu.com/questions/1029588/18-04-ctrlshift-to-change-language - second answer with dconf-editor
+
 # OpenVino
 1. https://github.com/openvinotoolkit/open_model_zoo - A lot of usefull pretrained models, resources. Need to install, research
 2. https://github.com/openvinotoolkit/workbench_aux - GUI for OpenVnio
